@@ -1,0 +1,273 @@
+## Jonathan David James O'Neill 16435482
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link type="text/css" rel="stylesheet" href="style.css">
+    <title> A brief collection of images of animals
+  </title>
+  </head>
+
+  <article>
+   <header>
+     <h1>Jonathan David James O'Neill</h1>
+     <h3>CSY1018 Resit Assignment</h3>
+     <h2>Bio</h2>
+   </header>
+
+ </article>
+  <body>
+    <br> <br>
+    I decided to choose images of various animals from around the world that I found interesting or cute <br>
+    These range from basic cats and dogs to sea birds and monkies <br>
+    I am not very artistic and creative and this was the best I could come up with <br>
+
+
+ <img src="images/duck-1463317_960_720.jpg"
+
+<br><br><br><br>
+    <a href="index.html"> Home </a> <br>
+        <a href="contact.html"> Contact </a> <br>
+        <a href="collection.html"> Collection </a> <br>
+        <a href="Bio.html"> Bio </a> <br>
+  </body>
+
+
+  <footer>
+   <p>Posted by: Jonathan O'Neill</p>
+   <p>Contact information: <a href="mailto:CSY1018project1@student.com">
+   CSY1018project@Resit.com</a>.</p>
+  </footer>
+</html>
+
+
+
+## Jonathan David James O'Neill 16435482
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link type="text/css" rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <title> A collection of animals and places</title>
+</head>
+<article>
+ <header>
+   <h1>Jonathan David James O'Neill</h1>
+   <h3>CSY1018 Resit Assignment</h3>
+   <h2>Collection of animals</h2>
+ </header>
+
+</article>
+<body>
+Here is a collection of pictures taken of animals, ranging from dogs to lions and foxes. <br>
+<div>
+    <img src="images/squirrel-112100_960_720.jpg" alt="">
+   <img src="images/magpie-2256661__340.jpg" alt="">
+  <img src="images/galapagos-tortoise-2256692__340.jpg" alt="">
+  <img src="images/mandrile-2256638_960_720.jpg" alt="">
+  <img src="images/sea-bird-2256694_960_720.jpg" alt="">
+  <img src="images/fuchs-1310826_960_720.jpg" alt="">
+  <img src="images/fuchs-1310840_960_720.jpg" alt="">
+  <img src="images/lions-1660044_960_720.jpg" alt="">
+  <img src="images/hedgehog-1584351_960_720.jpg" alt="">
+
+<br><br><br><br>
+ <a href=" https://www.pixabay.com">Images courtesy of Pixabay</a> <br> <br><br>
+      <a href="index.html"> Home </a> <br>
+          <a href="contact.html"> Contact </a> <br>
+            <a href="collection.html"> Collection </a> <br>
+          <a href="Bio.html"> Bio </a> <br>
+
+<br><br><br><br><br><br> </div>
+
+</body>
+
+
+
+<footer>
+ <p>Posted by: Jonathan O'Neill</p>
+ <p>Contact information: <a href="mailto:CSY1018project1@student.com">
+ CSY1018project@Resit.com</a>.</p>
+</footer>
+
+</html>
+
+
+## Jonathan David James O'Neill 16435482
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+  <link type="text/css" rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <title>Contact me</title>
+    <article>
+     <header>
+       <h1>Jonathan David James O'Neill</h1>
+       <h3>CSY1018 Resit Assignment</h3>
+       <h2>contact us</h2>
+     </header>
+
+   </article>
+  </head>
+  <body>
+
+
+    <table>
+    <tr>
+      <th>contact method</th>
+      <th>Contact details</th>
+    </tr>
+    <tr>
+      <th>Email address</th>
+      <th><a href="Barryscotalruz120@outlook.com">Barryscotal email</a></th>
+
+    </tr>
+    </table>
+
+
+
+    <br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <a href="index.html"> Home </a> <br>
+     <a href="contact.html"> Contact </a> <br>
+     <a href="collection.html"> Collection </a> <br>
+     <a href="Bio.html"> Bio </a> <br>
+
+  </body>
+
+
+  <footer>
+   <p>Posted by: Jonathan O'Neill</p>
+   <p>Contact information: <a href="mailto:CSY1018project1@student.com">
+   CSY1018project@Resit.com</a>.</p>
+  </footer>
+</html>
+## Jonathan David James O'Neill 16435482
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+    <link type="text/css" rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+    <title>My first Webpage</title>
+  </head>
+  <article>
+   <header>
+     <h1>Jonathan David James O'Neill</h1>
+     <h3>CSY1018 Resit Assignment</h3>
+
+   </header>
+
+ </article>
+  <body>
+  <h1><b>My first web page</b> <br> <br><br></h1>
+  <p>
+
+        Nice to meet you, my name is Jonathan David James O'Neill <br>
+        I am curreently working on a project for CSY1018 <br>
+        which involves working with Github and HTML/CSS <br>
+  </p>
+<br>
+<img src="images/fuchs-1310826_960_720.jpg" alt="">
+<caption><b>This is me</b>
+</caption>
+
+
+
+<br><br><br><br><br><br>
+<br><br><br><br>
+Here are some links to various pages regarding this site.
+<br><br>
+       <a href="https://github.com/LuluMikura/csy1018">Git hub link</a> <br>
+       <a href="index.html"> Home </a> <br>
+        <a href="contact.html"> Contact </a> <br>
+        <a href="collection.html"> Collection </a> <br>
+        <a href="Bio.html"> Bio </a> <br>
+
+  </body>
+
+
+
+  <footer>
+   <p>Posted by: Jonathan O'Neill</p>
+   <p>Contact information: <a href="mailto:CSY1018project1@student.com">
+     <a href=" https://www.pixabay.com">Images courtesy of Pixabay</a>
+   CSY1018project@Resit.com</a>.</p>
+  </footer>
+</html>
+
+
+
+## Jonathan David James O'Neill 16435482
+img{
+    height: 130px;
+    width: 30%;
+    background-color: powderblue;
+    float: left
+}
+
+
+
+## Jonathan David James O'Neill 16435482
+img{
+    height: 130px;
+    width: 30%;
+    background-color: powderblue;
+    text-align: bottom;
+    float: right
+    wrap left;
+
+}
+
+
+p{
+  font-style: italic;
+  font-family: sans-serif;
+  margin:auto;
+  font-size: 13px
+}
+
+
+body{
+  font-style: italic;
+  font-family: 'Montserrat', sans-serif;
+  margin:auto;
+  font-size: 16px;
+  align text-align: bottom
+
+}
+h1{
+  font-style: oblique;
+font-family: 'Montserrat', sans-serif;
+  margin:auto;
+  font-weight: bold;
+}
+
+table, th, td {
+   border: 3px solid black;
+}
